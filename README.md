@@ -1,2 +1,3 @@
 # Uber
-Компания Uber Partners
+Landing page
+"Uber Partners"
