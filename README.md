@@ -1,3 +1,2 @@
 # Uber
-Landing page
-"Uber Partners"
+## Landing page "Uber Partners"
