@@ -1,2 +1,2 @@
-## Landing page "Uber Partners" (простая вёрстка)
+## Landing page "Uber Partners"
 ### Демо: https://sbykoderova.github.io/Uber/
