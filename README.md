@@ -1,2 +1,2 @@
-## Landing page "Uber Partners"
-### Демо: https://sbykoderova.github.io/Uber/
+# Landing page "Uber Partners"
+### Демо: https://sbykoderova.github.io/uber/
